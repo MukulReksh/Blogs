@@ -1,0 +1,14 @@
+.home {
+  background-color: cadetblue;
+  box-shadow: 10px 10px 10px darkgrey;
+}
+.right {
+  color: white;
+}
+.menu h1 {
+  margin: 20px;
+}
+.menu-image {
+  width: 100%;
+  height: 600px;
+}
